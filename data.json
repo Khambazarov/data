@@ -53,69 +53,76 @@
         },
         {
             "id": "4.0",
+            "title": "Markdown",
+            "icon": "markdown",
+            "url": "https://www.markdownguide.org/",
+            "description": "Markdown is a lightweight markup language for creating formatted text using a plain-text editor."
+        },
+        {
+            "id": "5.0",
             "title": "HTML5",
             "icon": "html5",
             "url": "https://www.w3schools.com/html",
             "description": "HTML5 stands for 'Hyper Text Markup Language' for creating Web pages"
         },
         {
-            "id": "5.0",
+            "id": "6.0",
             "title": "CSS3",
             "icon": "css3",
             "url": "https://www.w3.org/Style/CSS/specs.en.html",
             "description": "CSS3 stands for 'Cascading Style Sheets' and describes how HTML elements are to be displayed on screen."
         },
         {
-            "id": "6.0",
+            "id": "7.0",
             "title": "SASS",
             "icon": "sass",
             "url": "https://sass-lang.com/",
             "description": "SASS stands for 'Syntactically Awesome Style Sheets' that’s compiled to CSS. It allows you to use variables, nested rules, mixins, functions, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized and makes it easy to share design within and across projects."
         },
         {
-            "id": "7.0",
+            "id": "8.0",
             "title": "CSS-Flexbox",
             "icon": "css-flexbox",
             "url": "https://www.w3schools.com/css/css3_flexbox.asp",
             "description": "Flexible Box Layout Module makes it easier to design flexible responsive layout structure."
         },
         {
-            "id": "8.0",
+            "id": "9.0",
             "title": "CSS-Grid",
             "icon": "css-grid",
             "url": "https://www.w3schools.com/css/css_grid.asp",
             "description": "CSS-Grid is layout Module and offers a grid-based layout system with rows and columns, making it easier to design web pages."
         },
         {
-            "id": "9.0",
+            "id": "10.0",
             "title": "Bootstrap",
             "icon": "bootstrap",
             "url": "https://getbootstrap.com/",
             "description": "Bootstrap is quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins."
         },
         {
-            "id": "10.0",
+            "id": "11.0",
             "title": "GitHub",
             "icon": "github",
             "url": "https://www.github.com/",
             "description": "GitHub is a Git repository hosting service and it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project."
         },
         {
-            "id": "11.0",
+            "id": "12.0",
             "title": "VSCode",
             "icon": "vscode",
             "url": "https://code.visualstudio.com/",
             "description": "VSC stands for 'Visual Studio Code' is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity)."
         },
         {
-            "id": "12.0",
+            "id": "13.0",
             "title": "Git",
             "icon": "git",
             "url": "https://git-scm.com/",
             "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
         },
         {
-            "id": "13.0",
+            "id": "14.0",
             "title": "Languages",
             "icon": "languages",
             "url": "",
