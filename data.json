@@ -1,0 +1,160 @@
+{
+    "home": [
+        {
+            "title": "Welcome to my Webpage.",
+            "name": "My name is Renat Khambazarov.",
+            "skills": "I am a Full Stack Developer,",
+            "base": "based in Hamburg, Germany.",
+            "textLine3": "I am a freelancer with a passion for design,",
+            "textLine4": "a creative person and a positive thinker.",
+            "textLine5": "I am fond of challenges and",
+            "textLine6": "have no fear of new things and tasks."
+        }
+    ],
+    "skills": [
+        {
+            "id": "1.0",
+            "title": "MERN",
+            "icon": "mern",
+            "url": "https://www.mongodb.com/mern-stack",
+            "description": "MERN is a full-stack, following the traditional 3-tier architectural pattern, including the front-end display tier (React.js), application tier (Express.js and Node.js), and database tier (MongoDB).",
+            "mernStack": [
+                {
+                    "id": "1.1",
+                    "title": "MongoDB",
+                    "icon": "mongodb",
+                    "url": "https://www.mongodb.com/",
+                    "description": "MongoDB is document object database designed for ease of development and scaling.If your application stores any data (user profiles, content, comments, uploads, events, etc.)then you’re going to want a database that’s just as easy to work with as React, Express, and Node.That’s where MongoDB comes in: JSON documents created in yourobject React.js front end can be sent to the Express.js server, where they can be processed and (assuming they’re valid) stored directly in MongoDB for later retrieval. Again, if you’re building in the cloud, you’ll want to look at Atlas. If you’re looking to set up your own MERN stack, read on!"
+                },
+                {
+                    "id": "1.2",
+                    "title": "Express",
+                    "icon": "express",
+                    "url": "https://expressjs.com/",
+                    "description": "Express is backend web application framework for Node.js and server-side framework, running inside a Node.js server. Express.js bills itself as a “fast, unopinionated, minimalist web framework for Node.js,” and that is indeed exactly what it is. Express.js has powerful models for URL routing (matching an incoming URL with a server function), and handling HTTP requests and responses."
+                },
+                {
+                    "id": "1.3",
+                    "title": "React",
+                    "icon": "react",
+                    "url": "https://reactjs.org/",
+                    "description": "React is javaScript library for building user interfaces and is top tier of the MERN stack is React.js, the declarative JavaScript framework for creating dynamic client-side applications in HTML. React lets you build up complex interfaces through simple Components, connect them to data on your backend server, and render them as HTML."
+                },
+                {
+                    "id": "1.4",
+                    "title": "Node.js",
+                    "icon": "node.js",
+                    "url": "https://nodejs.org/en/",
+                    "description": "Node is designed to build scalable network applications and an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a 'JavaScript everywhere' paradigm,[6] unifying web-application development around a single programming language, rather than different languages for server-side and client-side scripts."
+                }
+            ]
+        },
+        {
+            "id": "2.0",
+            "title": "JavaScript",
+            "icon": "javaScript",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+            "description": "JavaScript is the world's most popular programming language and is lightweight, interpreted, or just-in-time compiled programming language with first-class functions."
+        },
+        {
+            "id": "3.0",
+            "title": "JSON",
+            "icon": "json",
+            "url": "https://www.json.org/json-en.html",
+            "description": "JSON stands for 'JavaScript Object Notation' is an open standard file format and data interchange format that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and arrays (or other serializable values)."
+        },
+        {
+            "id": "4.0",
+            "title": "Markdown",
+            "icon": "markdown",
+            "url": "https://www.markdownguide.org/",
+            "description": "Markdown is a lightweight markup language for creating formatted text using a plain-text editor."
+        },
+        {
+            "id": "5.0",
+            "title": "HTML5",
+            "icon": "html5",
+            "url": "https://www.w3schools.com/html",
+            "description": "HTML5 stands for 'Hyper Text Markup Language' for creating Web pages"
+        },
+        {
+            "id": "6.0",
+            "title": "CSS3",
+            "icon": "css3",
+            "url": "https://www.w3.org/Style/CSS/specs.en.html",
+            "description": "CSS3 stands for 'Cascading Style Sheets' and describes how HTML elements are to be displayed on screen."
+        },
+        {
+            "id": "7.0",
+            "title": "CSS-Flexbox",
+            "icon": "css-flexbox",
+            "url": "https://www.w3schools.com/css/css3_flexbox.asp",
+            "description": "Flexible Box Layout Module makes it easier to design flexible responsive layout structure."
+        },
+        {
+            "id": "8.0",
+            "title": "CSS-Grid",
+            "icon": "css-grid",
+            "url": "https://www.w3schools.com/css/css_grid.asp",
+            "description": "CSS-Grid is layout Module and offers a grid-based layout system with rows and columns, making it easier to design web pages."
+        },
+        {
+            "id": "9.0",
+            "title": "SASS",
+            "icon": "sass",
+            "url": "https://sass-lang.com/",
+            "description": "SASS stands for 'Syntactically Awesome Style Sheets' that’s compiled to CSS. It allows you to use variables, nested rules, mixins, functions, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized and makes it easy to share design within and across projects."
+        },
+        {
+            "id": "10.0",
+            "title": "Bootstrap",
+            "icon": "bootstrap",
+            "url": "https://getbootstrap.com/",
+            "description": "Bootstrap is quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins."
+        },
+        {
+            "id": "11.0",
+            "title": "GitHub",
+            "icon": "github",
+            "url": "https://www.github.com/",
+            "description": "GitHub is a Git repository hosting service and it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project."
+        },
+        {
+            "id": "12.0",
+            "title": "VSCode",
+            "icon": "vscode",
+            "url": "https://code.visualstudio.com/",
+            "description": "VSC stands for 'Visual Studio Code' is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity)."
+        },
+        {
+            "id": "13.0",
+            "title": "Git",
+            "icon": "git",
+            "url": "https://git-scm.com/",
+            "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
+        },
+        {
+            "id": "14.0",
+            "title": "Languages",
+            "icon": "languages",
+            "url": "",
+            "description": "I speak the following four languages",
+            "languages": [
+                {
+                    "english": "english - B1.2"
+                },
+                {
+                    "german": "german - native speaker level"
+                },
+                {
+                    "russian": "russian - native speaker level"
+                },
+                {
+                    "circassian": "circassian - native speaker"
+                }
+            ]
+        }
+    ],
+    "projects": [],
+    "contacts": []
+}
