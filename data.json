@@ -169,14 +169,14 @@
             "id": "22",
             "title": "To Do",
             "icon": "to-do",
-            "url": "https://khambazarov-renat.netlify.app/projects/to-do",
+            "url": "https://renat-khambazarov.netlify.app/to-do-app.html",
             "description": ""
         },
         {
             "id": "23",
             "title": "Crypto Currency Converter",
             "icon": "crypto-currency-converter",
-            "url": "https://khambazarov-renat.netlify.app/projects/crypto-currency-converter",
+            "url": "https://renat-khambazarov.netlify.app/crypto-converter.html",
             "description": ""
         }
     ],
