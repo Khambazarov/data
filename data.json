@@ -178,6 +178,13 @@
             "icon": "crypto-currency-converter",
             "url": "https://renat-khambazarov.netlify.app/crypto-converter.html",
             "description": ""
+        },
+        {
+            "id": "24",
+            "title": "Moment",
+            "icon": "moment",
+            "url": "https://renat-khambazarov-moment.netlify.app/",
+            "description": "Enter a date to calculate exactly how long it will be until the day you want."
         }
     ],
     "contacts": []
