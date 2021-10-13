@@ -3,7 +3,12 @@
         {
             "id": "1.0",
             "title": "MERN",
-            "icon": "mern",
+            "icon": [
+                "mongodb",
+                "express",
+                "react",
+                "node.js"
+            ],
             "url": "https://www.mongodb.com/mern-stack",
             "description": "MERN is a full-stack, following the traditional 3-tier architectural pattern, including the front-end display tier (React.js), application tier (Express.js and Node.js), and database tier (MongoDB)."
         },
