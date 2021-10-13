@@ -3,7 +3,7 @@
         {
             "id": "1.0",
             "title": "MERN",
-            "icon": [
+            "icons": [
                 "mongodb",
                 "express",
                 "react",
