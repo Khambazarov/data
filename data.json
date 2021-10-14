@@ -3,6 +3,7 @@
         {
             "id": "1",
             "title": "Hey! I'm Renat Khambazarov!",
+            "favicon": "favicon-256x256.png",
             "image": "Bewerbungsfoto.webp",
             "url": "https://khambazarov-renat.netlify.app/",
             "description": "I'm a Full Stack Developer, based in Hamburg. I appreciate order, structure and quality in life and work! And my work is my Hobby! That's why I do my job well and enjoy it! If you are looking for a developer, who can get along with a team - you are in the right place! Don't hesitate to contact me!"
